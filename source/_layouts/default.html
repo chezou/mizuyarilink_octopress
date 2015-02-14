@@ -6,10 +6,13 @@
 {% include head.html %}
   <body>
     <a href="/" class="home-icon">
-      <img src="/images/home.png"/>
+      <img src="/images/home32.png"/>
     </a>
     <a href="{{ site.subscribe_rss }}" class="rss-icon">
       <img src="/images/rss32.png">
+    </a>
+    <a href="{{ site.itunes }}" class="itunes-icon">
+      <img src="/images/radio32.png">
     </a>
 
     {{ content | expand_urls: root_url }}

@@ -20,6 +20,7 @@ subscribe_rss: /rss.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
 email:
+itunes:
 
 # ----------------------- #
 #    Jekyll & Plugins     #

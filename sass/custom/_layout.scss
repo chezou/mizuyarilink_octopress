@@ -38,3 +38,22 @@
     margin-top: 9px;
   }
 }
+
+.itunes-icon {
+  position: fixed;
+  top: 10px;
+  left: 98px;
+  width: 44px;
+  height: 44px;
+  z-index: 700;
+  background-color: #F2F2F2;
+  text-align: center;
+  border: 0;
+
+  img {
+    border: none;
+    width: 25px;
+    height: 25px;
+    margin-top: 9px;
+  }
+}
