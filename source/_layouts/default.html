@@ -8,6 +8,9 @@
     <a href="/" class="home-icon">
       <img src="/images/home.png"/>
     </a>
+    <a href="{{ site.subscribe_rss }}" class="rss-icon">
+      <img src="/images/rss32.png">
+    </a>
 
     {{ content | expand_urls: root_url }}
     {% include footer.html %}
