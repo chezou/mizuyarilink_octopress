@@ -10,13 +10,13 @@ layout: null
     <link>{{ site.url }}</link>
     <itunes:author>Michiaki Ariga</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="http://mizuyari.link/images/itunes-cover.png"/>
-    <itunes:keywords>ingress,chezou,berserga,jarvis,ada,cross faction</itunes:keywords>
+    <itunes:image href="http://mizuyari.link/images/itunes-cover.jpg"/>
+    <itunes:keywords>ingress,jarvis,ada,cross faction</itunes:keywords>
     <itunes:subtitle>Ingress podcast by chezou and berserga</itunes:subtitle>
     <itunes:summary>Ingressの話題について話すPodcastです。</itunes:summary>
     <itunes:category text="Games"/>
     <itunes:owner>
-      <itunes:name>chezou</itunes:name>
+      <itunes:name>chezou & berserga</itunes:name>
       <itunes:email>chezou@gmail.com</itunes:email>
     </itunes:owner>
     {% for post in site.posts %}
