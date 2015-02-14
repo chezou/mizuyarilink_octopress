@@ -12,6 +12,14 @@ single: true
           written {% include post/date.html %}{% if updated %}{{ updated }}{% else %}{{ time }}{% endif %}
           {% include post/categories.html %}
         </div>
+        {% if page.audio-src %}
+        <div class="audio-container">
+          <div class="audio-player"><audio src="{{ page.audio-src }}" type="audio/mp3" controls="controls" preload="none"></audio></div>
+          <div class="audio-summary">
+            <i class="icon-play-circle"></i> 収録時間: {{ page.audio-duration }} | <a href="{{ page.audio-src }}"><i class="icon-download-alt"></i> Download MP3 ({{ page.audio-length | byte_to_mb }}MB)</a>
+          </div>
+        </div>
+        {% endif %}
         {{ content }}
 
         <hr class="divider-short"/>

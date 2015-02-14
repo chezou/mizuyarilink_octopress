@@ -4,3 +4,17 @@
 ul {
   list-style: circle inside;
 }
+
+.audio-container {
+  margin-bottom: 2em;
+  width: 100%;
+
+  .audio-player {
+    margin-bottom: 0.5em;
+  }
+
+  .audio-summary {
+    font-size: 80%;
+    text-align: right;
+  }
+}
