@@ -13,6 +13,14 @@ berserga さんと Ingress ニュースを紹介するPodcastをはじめまし�
 <!-- more -->
 
 ## Show Notes
+### 自己紹介
+- berserga
+  - [Ingress(イングレス)速報 : 川崎に40枚重なったミルフィーユCFが形成される](http://ingress.blog.jp/archives/13616218.html)
+- chezou
+  - [#ingress でフルタイムのプロエージェントと出会った話 - once upon a time,](http://chezou.hatenablog.com/entry/2014/12/15/152000)
+  - [Word cloud of Japanese ingress portal name](https://plus.google.com/+MichiakiAriga/posts/RjtL2BDDZqq)
+  - [非エンジニアのコミュニティにSlackを導入した話 #ingress - once upon a time,](http://chezou.hatenablog.com/entry/2015/01/16/011049)
+
 ### 気になるニュース
 - [Ingress(イングレス)速報 : Ingress、一部日本語化](http://ingress.blog.jp/archives/22441348.html)
 - [Ingress(イングレス)速報 : 【天才か】深夜帯に活動するエージェントが発想を逆転させ地域の防犯ボランティアに登録](http://ingress.blog.jp/archives/21886888.html)
