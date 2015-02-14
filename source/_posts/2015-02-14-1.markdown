@@ -1,0 +1,28 @@
+---
+layout: post
+title: "1: Ingress の Podcast はじめました"
+date: 2015-02-14 21:08:49 +0900
+comments: true
+audio-src: http://mizuyari.link/audio/mizuyari-01.mp3
+audio-length: 16240832
+audio-duration: "33:50"
+summary: "berserga さんと Ingress ニュースを紹介するPodcastをはじめました。防犯パトロールを始めたエージェントの話などを紹介しました。"
+---
+
+berserga さんと Ingress ニュースを紹介するPodcastをはじめました。防犯パトロールを始めたエージェントの話などを紹介しました。
+<!-- more -->
+
+## Show Notes
+### 気になるニュース
+- [Ingress(イングレス)速報 : Ingress、一部日本語化](http://ingress.blog.jp/archives/22441348.html)
+- [Ingress(イングレス)速報 : 【天才か】深夜帯に活動するエージェントが発想を逆転させ地域の防犯ボランティアに登録](http://ingress.blog.jp/archives/21886888.html)
+- [Ingress(イングレス)速報 : 【世界初？】5000本のポータルを生み出した伝説の功労者、日本に爆誕](http://ingress.blog.jp/archives/22415161.html)
+- [【MMMMORPG】Ingress攻略(Wiki風味)【大規模社会実験】: Portal lock down glyph hack required のペナルティについて](http://ingressjp.blogspot.jp/2015/02/portal-lock-down-glyph-hack-required.html)
+
+### 教えて！bersergaさん
+- Translator メダルをとりたい！グリフハックのコツを教えて
+  - [あだなグリフ（仮）](http://myglyph.akiraak.com/)
+
+## 編集後記
+感想は #mizuyari で Twitter か Google+ でいただけるととっても嬉しいです！
+また、ふたりとも Resistance なので、 Enlightened の方も話したいという方はご連絡ください
