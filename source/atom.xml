@@ -16,7 +16,7 @@ layout: null
     <itunes:summary>Ingressの話題について話すPodcastです。</itunes:summary>
     <itunes:category text="Games"/>
     <itunes:owner>
-      <itunes:name>chezou & berserga</itunes:name>
+      <itunes:name>chezou and berserga</itunes:name>
       <itunes:email>chezou@gmail.com</itunes:email>
     </itunes:owner>
     {% for post in site.posts %}
