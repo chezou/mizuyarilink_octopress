@@ -100,3 +100,6 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: false
+
+gems:
+  - octopress-date-format
