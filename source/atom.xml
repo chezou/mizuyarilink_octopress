@@ -22,7 +22,7 @@ layout: null
     {% for post in site.posts %}
     <item>
       <title>{{ post.title | xml_escape }}</title>
-      <description>{{ post.summary | expand_urls: site.url | cdata_escape }}</description>
+      <description>{{ post.content | xml_escape }}</description>
       <link>{{ site.url }}{{ post.url }}</link>
       <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
       <guid>{{ site.url }}{{ post.id }}</guid>

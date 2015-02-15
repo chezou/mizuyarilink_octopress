@@ -30,7 +30,3 @@ berserga さんと Ingress ニュースを紹介するPodcastをはじめまし�
 ### 教えて！bersergaさん
 - Translator メダルをとりたい！グリフハックのコツを教えて
   - [あだなグリフ（仮）](http://myglyph.akiraak.com/)
-
-## 編集後記
-感想は #mizuyari で Twitter か Google+ でいただけるととっても嬉しいです！
-また、ふたりとも Resistance なので、 Enlightened の方も話したいという方はご連絡ください
