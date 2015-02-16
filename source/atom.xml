@@ -6,6 +6,7 @@ layout: null
   <channel>
     <atom:link rel="hub" href="http://pubsubhubbub.appspot.com" xmlns:atom="http://www.w3.org/2005/Atom"/>
     <title>{{ site.title | xml_escape }}</title>
+    <description>Ingressのニュースや話題をお届けするゲーム系ポッドキャストです。</description>>
     <generator>Octopress</generator>
     <link>{{ site.url }}</link>
     <itunes:author>Michiaki Ariga</itunes:author>
