@@ -16,7 +16,7 @@ description: 'chezouとbersergaの二人がIngressの話題をお届けするポ
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: http://feed.mizuyari.link/mizuyaringress
+subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
 email:
