@@ -10,7 +10,6 @@ summary: "berserga さんと Ingress ニュースを紹介するPodcastをはじ
 ---
 
 berserga さんと Ingress ニュースを紹介するPodcastをはじめました。防犯パトロールを始めたエージェントの話などを紹介しました。
-<!-- more -->
 
 ## Show Notes
 ### 自己紹介
