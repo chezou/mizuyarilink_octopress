@@ -20,10 +20,9 @@
 //$sidebar-pad-wide: 20px;
 //$sidebar-width-wide: 300px;
 
-.rss-icon {
+.header-icon {
   position: fixed;
   top: 10px;
-  left: 54px;
   width: 44px;
   height: 44px;
   z-index: 700;
@@ -37,23 +36,17 @@
     height: 25px;
     margin-top: 9px;
   }
+}
+
+.mail-icon {
+  left: 54px;
+}
+
+.rss-icon {
+  left: 98px;
 }
 
 .itunes-icon {
-  position: fixed;
-  top: 10px;
-  left: 98px;
-  width: 44px;
-  height: 44px;
-  z-index: 700;
-  background-color: #F2F2F2;
-  text-align: center;
-  border: 0;
-
-  img {
-    border: none;
-    width: 25px;
-    height: 25px;
-    margin-top: 9px;
-  }
+  left: 142px;
 }
+
