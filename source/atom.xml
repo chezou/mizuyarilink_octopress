@@ -15,6 +15,7 @@ layout: null
     <itunes:subtitle>Ingress podcast by chezou and berserga</itunes:subtitle>
     <itunes:summary>Ingressの話題について話すPodcastです。</itunes:summary>
     <itunes:category text="Games"/>
+    <itunes:new-feed-url>http://feeds.mizuyari.link/mizuyaringress</itunes:new-feed-url>>
     <itunes:owner>
       <itunes:name>chezou and berserga</itunes:name>
       <itunes:email>chezou@gmail.com</itunes:email>
