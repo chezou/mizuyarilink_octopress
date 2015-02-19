@@ -30,7 +30,6 @@ layout: null
       <guid>{{ site.url }}{{ post.id }}</guid>
       <itunes:explicit>no</itunes:explicit>
       <itunes:subtitle>{{ post.summary }}</itunes:subtitle>
-      <itunes:summary>{{ post.summary }}</itunes:summary>
       <itunes:duration>{{ post.audio-duration }}</itunes:duration>
       <enclosure url="{{ post.audio-src }}" type="audio/mpeg" length="{{ post.audio-length }}"/>
     </item>
