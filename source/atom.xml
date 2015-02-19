@@ -29,8 +29,8 @@ layout: null
       <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
       <guid>{{ site.url }}{{ post.id }}</guid>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>{{ post.sumary }}</itunes:subtitle>
-      <itunes:summary>{{ post.sumary }}</itunes:summary>
+      <itunes:subtitle>{{ post.summary }}</itunes:subtitle>
+      <itunes:summary>{{ post.summary }}</itunes:summary>
       <itunes:duration>{{ post.audio-duration }}</itunes:duration>
       <enclosure url="{{ post.audio-src }}" type="audio/mpeg" length="{{ post.audio-length }}"/>
     </item>

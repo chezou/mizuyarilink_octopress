@@ -6,7 +6,7 @@ comments: true
 audio-src: http://mizuyari.link/audio/mizuyari-01.mp3
 audio-length: 16240832
 audio-duration: "33:50"
-summary: "berserga さんと Ingress ニュースを紹介するPodcastをはじめました。防犯パトロールを始めたエージェントの話などを紹介しました。"
+summary: berserga さんと Ingress ニュースを紹介するPodcastをはじめました。防犯パトロールを始めたエージェントの話などを紹介しました。
 ---
 
 berserga さんと Ingress ニュースを紹介するPodcastをはじめました。防犯パトロールを始めたエージェントの話などを紹介しました。
