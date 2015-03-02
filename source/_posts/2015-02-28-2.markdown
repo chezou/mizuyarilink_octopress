@@ -1,0 +1,31 @@
+---
+layout: post
+title: "2: Illuminatorメダル登場！大きなCFをつくろう"
+date: 2015-03-01 00:31:15 +0900
+comments: true
+audio-src: http://mizuyari.link/audio/mizuyari-02.mp3
+audio-length:
+audio-duration: ":"
+summary: berserga さんと chezou でIlluminatorメダルや証人速報について話しました。
+---
+
+## Show Notes
+
+### 気になるニュース
+- [【MMMMORPG】Ingress攻略(Wiki風味)【大規模社会実験】: Illuminator Medal が実装されました](http://ingressjp.blogspot.jp/2015/02/illuminator-medal.html)
+- [Ingress：Glyf Hack（グリフ・ハック）の正解率が劇的にアップする覚えておきたい5つのグリフ - 週アスPLUS](http://weekly.ascii.jp/elem/000/000/287/287495/)
+  - [Glyph(Android)](https://play.google.com/store/apps/details?id=jp.org.example.geckour.glyph )
+  - [Glyph Mastery(iOS)](https://itunes.apple.com/jp/app/glyph-mastery/id903701519?mt=8 )
+- [立命館大学、IngressやVR、インディーゲームをテーマにしたセミナーを開催 - GAME Watch](http://game.watch.impress.co.jp/docs/news/20150224_689741.html)
+- [【MMMMORPG】Ingress攻略(Wiki風味)【大規模社会実験】: 東京都東村山市でMissionプレイすると、リアル報酬が！](http://ingressjp.blogspot.jp/2015/02/mission.html)
+- [Ingress(イングレス)速報 : 証人(Shonin)に参加すると貰える実績メダルはこちら](http://ingress.blog.jp/archives/23295313.html)
+- [Summary of Shonin 01](https://plus.google.com/+Ingress/posts/3xT6WhuRbR4)
+  - Enlightened: 2059
+  - **Resistance: 2062**
+- [Summary of Shonin 02](https://plus.google.com/+Ingress/posts/MVZbVTPYLKc)
+  - Enlightened: 2926
+  - **Resistance: 2230**
+
+### お便りコーナー
+- 「青キノコ vs 緑タケノコ」
+  - ADA vs XMP
