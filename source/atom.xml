@@ -9,7 +9,7 @@ layout: null
     <description>Ingressのニュースや話題をお届けするゲーム系ポッドキャストです。</description>
     <generator>Octopress</generator>
     <link>{{ site.url }}</link>
-    <itunes:author>Michiaki Ariga</itunes:author>
+    <itunes:author>chezou&amp;berserga</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://mizuyari.link/images/itunes-cover.jpg"/>
     <itunes:keywords>ingress,jarvis,ada,cross faction</itunes:keywords>
