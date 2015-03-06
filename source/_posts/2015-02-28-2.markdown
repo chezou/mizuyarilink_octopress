@@ -4,7 +4,7 @@ title: "2: Illuminatorメダル登場！大きなCFをつくろう"
 date: 2015-03-01 00:31:15 +0900
 comments: true
 audio-src: http://mizuyari.link/audio/mizuyari-02.mp3
-audio-length:
+audio-length: 16728896
 audio-duration: ":"
 summary: berserga さんと chezou でIlluminatorメダルや証人速報について話しました。
 ---
