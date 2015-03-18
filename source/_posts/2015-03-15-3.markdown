@@ -1,0 +1,28 @@
+---
+layout: post
+title: "3: ミッション職人に聞く、ロケテの重要性"
+date: 2015-03-15 23:37:31 +0900
+comments: true
+audio-src: http://mizuyari.link/audio/mizuyari-03.mp3
+audio-length: 19420160
+audio-duration: "40:28"
+summary: 469ma さんをゲストにミッションを作る心構えやArtifact、Sojournerメダルについて話しました
+---
+
+## Show Notes
+
+### 気になるニュース
+- からあげ転がし(#DevraShards)
+  - [【MMMMORPG】Ingress攻略(Wiki風味)【大規模社会実験】: shonin Stone 改め #DevraShards﻿ 日本国内に2個発生](http://ingressjp.blogspot.jp/2015/03/shonin-stone-devrashards-2.html)
+  - [【アーティファクト開始】ファミマサンクス統合交渉する中、ローソンは玉転がしの舞台に | Ingress(イングレス)速報](http://ingressblog.jp/24033957/)
+  - [【アーティファクト】日本を通った玉の行方一覧【随時更新中】 | Ingress(イングレス)速報](http://ingressblog.jp/24494876/)
+- [【新メダル】毎日ハックで手に入る鬼メダル「Sojourner(ソジャーナ)」間もなく【もう許して】 | Ingress(イングレス)速報](http://ingressblog.jp/24029810/)
+- [【MMMMORPG】Ingress攻略(Wiki風味)【大規模社会実験】: GlyphHACKでAP取得ｷﾀｷﾀｷﾀｷﾀ━━━(ﾟ∀ﾟ≡(ﾟ∀ﾟ≡ﾟ∀ﾟ)≡ﾟ∀ﾟ)━━━━!!](http://ingressjp.blogspot.jp/2015/03/glyphhackap.html)
+- [Intel Mapからミッションを探したり見たりできるようになりました | Ingress(イングレス)速報](http://ingressblog.jp/24576341/)
+
+### ゲストコーナー
+- 469ma さん
+
+
+### お便りコーナー
+- 「おもしろ/珍名エージェント」
