@@ -1,0 +1,15 @@
+---
+layout: post
+title: "4: SHONIN SPECIAL"
+date: 2015-04-11 16:38:24 +0900
+comments: true
+audio-src: http://mizuyari.link/audio/mizuyari-04.mp3
+audio-length: 16168832
+audio-duration: "33:41"
+summary: 3/28に開催された「証人」のレジスタンス打ち上げでのインタビューです
+---
+
+## Show Notes
+
+3/28に開催された「証人」京都のレジスタンス打ち上げでのインタビューです。
+飲み会の席の録音なので、お聞き苦しい点もあるかもしれませんがご容赦下さい。
