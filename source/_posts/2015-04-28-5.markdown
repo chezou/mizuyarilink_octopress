@@ -3,7 +3,7 @@ layout: post
 title: "5: ジョン・ハンケ「3日後京都にポスター持ってきて」"
 date: 2015-04-28 23:11:39 +0900
 comments: true
-audio-src: http://mizuyari.link/audio/mizuyari-04.mp3
+audio-src: http://mizuyari.link/audio/mizuyari-05.mp3
 audio-length: 18930987
 audio-duration: "39:25"
 summary: miho0919 さんをゲストに、Ingress をテーマにしたアートについて聞きました
