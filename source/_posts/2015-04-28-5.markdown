@@ -1,0 +1,31 @@
+---
+layout: post
+title: "5: ジョン・ハンケ「3日後京都にポスター持ってきて」"
+date: 2015-04-28 23:11:39 +0900
+comments: true
+audio-src: http://mizuyari.link/audio/mizuyari-04.mp3
+audio-length: 18930987
+audio-duration: "39:25"
+summary: miho0919 さんをゲストに、Ingress をテーマにしたアートについて聞きました
+---
+
+## Show Notes
+
+### 気になるニュース
+
+- [Ingress MAPに本当に対応しました | LR賃貸ブログ](http://lr.chint.ai/contents/real_ingress-map_link_done/)
+- [Ingressを利用した観光・防犯・健康施策](http://takeori.net/ingress)
+- [【MMMMORPG】Ingress攻略(Wiki風味)【大規模社会実験】: Mission作成権利がLV7以上のエージェントに拡大しました](http://ingressjp.blogspot.jp/2015/04/missionlv7.html)
+- [岩手県庁が「ゲームノミクス研究会」を発足へ--Ingressの成果踏まえ - CNET Japan](http://japan.cnet.com/news/business/35063103/)
+ゲームと経済の融合を目指して岩手県庁の有志職員が研究会を開催
+- [超神ネイガーが畑で見つけたものは...](https://twitter.com/neiger_akita/status/591422234717253632)
+
+### ゲストコーナー
+
+- [miho0919](https://plus.google.com/+MihoS0919/) さんの Ingress アート話
+- [『Ingress（イングレス）』のコンセプトは“世界をゲーム盤に”――ジョン・ハンケ氏＆川島優志氏が“DIEC”に登場(1/2) - ファミ通.com](http://www.famitsu.com/news/201503/29075292.html)
+    - 証人でハンケ氏に渡したポストカードがとりあげられています
+
+### お便りコーナー
+
+- bersergaさんに聞く、Ingress 用語「わんこ」
