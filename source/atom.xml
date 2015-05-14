@@ -26,7 +26,7 @@ layout: null
       <title>{{ post.title | xml_escape }}</title>
       <description>{{ post.content | xml_escape }}</description>
       <link>{{ site.url }}{{ post.url }}</link>
-      <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
+      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
       <guid>{{ site.url }}{{ post.id }}</guid>
       <itunes:explicit>no</itunes:explicit>
       <itunes:subtitle>{{ post.summary }}</itunes:subtitle>
