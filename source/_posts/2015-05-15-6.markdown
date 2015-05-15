@@ -1,0 +1,34 @@
+---
+layout: post
+title: "6: 大田区の底力を見せつけた！才能の無駄遣い！？な証人エムブレム作成秘話"
+date: 2015-05-15 18:05:40 +0900
+comments: true
+audio-src: http://mizuyari.link/audio/mizuyari-06.mp3
+audio-length: 20824832
+audio-duration: "43:23"
+summary: MeisterGhim さん、 okimono さんをゲストに初めての公開収録をしました
+---
+
+## Show Notes
+
+### 気になるニュース
+
+- [今からはじめる Ingress 、最速レベルアップ完全マニュアル ITpro](http://itpro.nikkeibp.co.jp/atcl/column/15/041700100/042700007/)
+- [「歴史と文化の散歩道を歩く」というミッションを作成しました](https://plus.google.com/+vqr-jp/posts/i3GfSnqoeFq)
+- [Ingress攻略 LAWSON×Ingress 企画第二段 パスコードのおまけ&グッズ販売](http://ingressjp.blogspot.jp/2015/04/lawsoningress.html)
+- [東京メトロ売店、ローソンに＝3年で50店転換](http://headlines.yahoo.co.jp/hl?a=20150427-00000036-jij-bus_all)
+
+### ゲストコーナー1
+
+- [MeisterGhim](https://plus.google.com/116688185158104522635/about) さんの、証人メダルのお話
+- [証人エムブレムとレジスタンスエムブレムをいただきました！](https://plus.google.com/+MichiakiAriga/posts/TqyyyCTEK1a)
+
+### ゲストコーナー2
+
+- okimono さんの A16 までの道と、 Ingress ガチ勢のお話
+
+### 教えて！berserga 先生
+
+- berserga 先生に聞く、Ingress用語
+	- 「水やり」
+	- 「UPC」「UPV」「ユニーク」
