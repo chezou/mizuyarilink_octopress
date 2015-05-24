@@ -1,0 +1,27 @@
+---
+layout: post
+title: "7: 果たして川島名人はXMPを何連射できるのか！？ Ingressまんが"
+date: 2015-05-25 00:27:34 +0900
+comments: true
+audio-src: http://mizuyari.link/audio/mizuyari-06.mp3
+audio-length: 20512832
+audio-duration: "42:44"
+summary: Mameaki さんをゲストに Ingress まんがのお話を聞きました。
+---
+
+## Show Notes
+
+### 気になるニュース
+
+- [Ingress攻略: 日本で初開催なるか？XM Anomaly Tohoku翌日の6/21にMissionDayイベント](http://ingressjp.blogspot.jp/2015/05/xm-anomaly-tohoku621missionday.html)
+- [Fev Games » Persepolis Shards Week 1 & 2](http://fevgames.net/persepolis-shards-week-1-2/)
+- [The Portals Discovered statistic in your Agent Profile now counts the total of…](https://plus.google.com/+NIAOps/posts/DgrdPdNT8CV)
+- [Persepolis Resistance Tohoku(PRT広報)：おばんです！Persepolis Tohoku紹介動画がYouTubeにアップされました！](https://plus.google.com/+TohokuBluePersepolis/posts/NFKYpTN7Che)
+- [Persepolis Resistance Tohoku(PRT広報)：6月6日（土）、岩手県一関にてIngress初心者講習会開催のお知らせです。](https://plus.google.com/+TohokuBluePersepolis/posts/gDvvfdq9CC4)
+- [超神ネイガーさんのTwitter](https://twitter.com/neiger_akita/status/599413377941839873)
+
+### ゲストコーナー
+- [™豆あき](https://plus.google.com/106528987410570830719/about) さんのIngressまんが話
+- [@mameaki 先生のingressまんが](http://togetter.com/li/728750)
+- [@mameaki 先生のingressむかしばなし](http://togetter.com/li/746693)
+- [川島名人、すいませんでした](https://plus.google.com/106528987410570830719/posts/cCiz8pRYbKC)
