@@ -3,7 +3,7 @@ layout: post
 title: "7: 果たして川島名人はXMPを何連射できるのか！？ Ingressまんが"
 date: 2015-05-25 00:27:34 +0900
 comments: true
-audio-src: http://mizuyari.link/audio/mizuyari-06.mp3
+audio-src: http://mizuyari.link/audio/mizuyari-07.mp3
 audio-length: 20512832
 audio-duration: "42:44"
 summary: Mameaki さんをゲストに Ingress まんがのお話を聞きました。

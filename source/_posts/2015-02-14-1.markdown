@@ -9,8 +9,6 @@ audio-duration: "33:50"
 summary: berserga さんと Ingress ニュースを紹介するPodcastをはじめました。防犯パトロールを始めたエージェントの話などを紹介しました。
 ---
 
-berserga さんと Ingress ニュースを紹介するPodcastをはじめました。防犯パトロールを始めたエージェントの話などを紹介しました。
-
 ## Show Notes
 ### 自己紹介
 - berserga
