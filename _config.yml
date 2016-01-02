@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://mizuyari.link
+url: http://chezou.github.io/mizuyarilink_octopress
 title: 水やり通信
 subtitle: 'Ingress podcast by chezou & berserga #mizuyari'
 author: chezou & berserga
@@ -16,7 +16,7 @@ description: 'chezouとbersergaの二人がIngressの話題をお届けするポ
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: http://feeds.mizuyari.link/mizuyaringress
+subscribe_rss: http://chezou.github.io/mizuyarilink_octopress/atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
 email:
