@@ -27,7 +27,7 @@ itunes: https://itunes.apple.com/jp/podcast/shuiyari-tong-xin/id967598466
 # ----------------------- #
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
-root: /
+root: /mizuyarilink_octopress
 permalink: /:title/
 source: source
 destination: public
