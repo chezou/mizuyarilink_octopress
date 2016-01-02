@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:feedpress="http://feedpress.it/xmlns" version="2.0">
+  <channel>
+    <atom:link rel="hub" href="http://pubsubhubbub.appspot.com" xmlns:atom="http://www.w3.org/2005/Atom"/>
+    <title>水やり通信</title>
+    <description>Ingressのニュースや話題をお届けするゲーム系ポッドキャストです。</description>
+    <generator>Octopress</generator>
+    <link>http://chezou.github.io/mizuyarilink_octopress</link>
+    <itunes:author>chezou&amp;berserga</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://chezou.github.io/mizuyarilink_octopress/images/itunes-cover.jpg"/>
+    <itunes:keywords>ingress,jarvis,ada,cross faction</itunes:keywords>
+    <itunes:subtitle>Ingress podcast by chezou and berserga</itunes:subtitle>
+    <itunes:summary>Ingressの話題について話すPodcastです。</itunes:summary>
+    <itunes:category text="Games"/>
+    <itunes:new-feed-url>http://chezou.github.io/mizuyarilink_octopress/atom.xml</itunes:new-feed-url>>
+    <itunes:owner>
+      <itunes:name>chezou and berserga</itunes:name>
+      <itunes:email>chezou@gmail.com</itunes:email>
+    </itunes:owner>
+    
+    <item>
+      <title>7: 果たして川島名人はXMPを何連射できるのか！？ Ingressまんが</title>
+      <description>Mameaki さんをゲストに Ingress まんがのお話を聞きました。&lt;h2&gt;Show Notes&lt;/h2&gt;
+
+&lt;h3&gt;気になるニュース&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://ingressjp.blogspot.jp/2015/05/xm-anomaly-tohoku621missionday.html&quot;&gt;Ingress攻略: 日本で初開催なるか？XM Anomaly Tohoku翌日の6/21にMissionDayイベント&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://fevgames.net/persepolis-shards-week-1-2/&quot;&gt;Fev Games » Persepolis Shards Week 1 &amp;amp; 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://plus.google.com/+NIAOps/posts/DgrdPdNT8CV&quot;&gt;The Portals Discovered statistic in your Agent Profile now counts the total of…&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://plus.google.com/+TohokuBluePersepolis/posts/NFKYpTN7Che&quot;&gt;Persepolis Resistance Tohoku(PRT広報)：おばんです！Persepolis Tohoku紹介動画がYouTubeにアップされました！&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://plus.google.com/+TohokuBluePersepolis/posts/gDvvfdq9CC4&quot;&gt;Persepolis Resistance Tohoku(PRT広報)：6月6日（土）、岩手県一関にてIngress初心者講習会開催のお知らせです。&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/neiger_akita/status/599413377941839873&quot;&gt;超神ネイガーさんのTwitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;ゲストコーナー&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://plus.google.com/106528987410570830719/about&quot;&gt;™豆あき&lt;/a&gt; さんのIngressまんが話&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://togetter.com/li/728750&quot;&gt;@mameaki 先生のingressまんが&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://togetter.com/li/746693&quot;&gt;@mameaki 先生のingressむかしばなし&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://plus.google.com/106528987410570830719/posts/cCiz8pRYbKC&quot;&gt;川島名人、すいませんでした&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+      <link>http://chezou.github.io/mizuyarilink_octopress/7/</link>
+      <pubDate>Mon, 25 May 2015 00:27:34 +0900</pubDate>
+      <guid>http://chezou.github.io/mizuyarilink_octopress/7</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Mameaki さんをゲストに Ingress まんがのお話を聞きました。</itunes:subtitle>
+      <itunes:duration>42:44</itunes:duration>
+      <enclosure url="http://mizuyari.link/audio/mizuyari-07.mp3" type="audio/mpeg" length="20512832"/>
+    </item>
+    
+    <item>
+      <title>6: 大田区の底力を見せつけた！才能の無駄遣い！？な証人エムブレム作成秘話</title>
+      <description>MeisterGhim さん、 okimono さんをゲストに初めての公開収録をしました&lt;h2&gt;Show Notes&lt;/h2&gt;
+
+&lt;h3&gt;気になるニュース&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://itpro.nikkeibp.co.jp/atcl/column/15/041700100/042700007/&quot;&gt;今からはじめる Ingress 、最速レベルアップ完全マニュアル ITpro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://plus.google.com/+vqr-jp/posts/i3GfSnqoeFq&quot;&gt;「歴史と文化の散歩道を歩く」というミッションを作成しました&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://ingressjp.blogspot.jp/2015/04/lawsoningress.html&quot;&gt;Ingress攻略 LAWSON×Ingress 企画第二段 パスコードのおまけ&amp;amp;グッズ販売&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.itmedia.co.jp/news/articles/1504/27/news102.html&quot;&gt;東京メトロの売店、ローソンに　3年で約50店 - ITmedia ニュース&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;ゲストコーナー1&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://plus.google.com/116688185158104522635/about&quot;&gt;MeisterGhim&lt;/a&gt; さんの、証人メダルのお話&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://plus.google.com/+MichiakiAriga/posts/TqyyyCTEK1a&quot;&gt;証人エムブレムとレジスタンスエムブレムをいただきました！&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://plus.google.com/112107245695924327134/posts/8xgTeVb1s9b&quot;&gt;PERSEPOLISメダルの色付けをしてみました。…&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;ゲストコーナー2&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;okimono さんの A16 までの道と、 Ingress ガチ勢のお話&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;教えて！berserga 先生&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;berserga 先生に聞く、Ingress用語
+
+&lt;ul&gt;
+&lt;li&gt;「水やり」&lt;/li&gt;
+&lt;li&gt;「UPC」「UPV」「ユニーク」&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+      <link>http://chezou.github.io/mizuyarilink_octopress/6/</link>
+      <pubDate>Fri, 15 May 2015 18:05:40 +0900</pubDate>
+      <guid>http://chezou.github.io/mizuyarilink_octopress/6</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>MeisterGhim さん、 okimono さんをゲストに初めての公開収録をしました</itunes:subtitle>
+      <itunes:duration>43:23</itunes:duration>
+      <enclosure url="http://mizuyari.link/audio/mizuyari-06.mp3" type="audio/mpeg" length="20824832"/>
+    </item>
+    
+    <item>
+      <title>5: ジョン・ハンケ「3日後京都にポスター持ってきて」</title>
+      <description>miho0919 さんをゲストに、Ingress をテーマにしたアートについて聞きました&lt;h2&gt;Show Notes&lt;/h2&gt;
+
+&lt;h3&gt;気になるニュース&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://lr.chint.ai/contents/real_ingress-map_link_done/&quot;&gt;Ingress MAPに本当に対応しました | LR賃貸ブログ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://takeori.net/ingress&quot;&gt;Ingressを利用した観光・防犯・健康施策&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://ingressjp.blogspot.jp/2015/04/missionlv7.html&quot;&gt;【MMMMORPG】Ingress攻略(Wiki風味)【大規模社会実験】: Mission作成権利がLV7以上のエージェントに拡大しました&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://japan.cnet.com/news/business/35063103/&quot;&gt;岩手県庁が「ゲームノミクス研究会」を発足へ&amp;ndash;Ingressの成果踏まえ - CNET Japan&lt;/a&gt;
+ゲームと経済の融合を目指して岩手県庁の有志職員が研究会を開催&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/neiger_akita/status/591422234717253632&quot;&gt;超神ネイガーが畑で見つけたものは&amp;hellip;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;ゲストコーナー&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://plus.google.com/+MihoS0919/&quot;&gt;miho0919&lt;/a&gt; さんの Ingress アート話&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.famitsu.com/news/201503/29075292.html&quot;&gt;『Ingress（イングレス）』のコンセプトは“世界をゲーム盤に”――ジョン・ハンケ氏＆川島優志氏が“DIEC”に登場(&amp;frac12;) - ファミ通.com&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;証人でハンケ氏に渡したポストカードがとりあげられています&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;お便りコーナー&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;bersergaさんに聞く、Ingress 用語「わんこ」&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+      <link>http://chezou.github.io/mizuyarilink_octopress/5/</link>
+      <pubDate>Tue, 28 Apr 2015 23:11:39 +0900</pubDate>
+      <guid>http://chezou.github.io/mizuyarilink_octopress/5</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>miho0919 さんをゲストに、Ingress をテーマにしたアートについて聞きました</itunes:subtitle>
+      <itunes:duration>39:25</itunes:duration>
+      <enclosure url="http://mizuyari.link/audio/mizuyari-05.mp3" type="audio/mpeg" length="18930987"/>
+    </item>
+    
+    <item>
+      <title>4: SHONIN SPECIAL</title>
+      <description>3/28に開催された「証人」のレジスタンス打ち上げでのインタビューです&lt;h2&gt;Show Notes&lt;/h2&gt;
+
+&lt;p&gt;飲み会の席の録音なので、お聞き苦しい点もあるかもしれませんがご容赦下さい。&lt;/p&gt;
+</description>
+      <link>http://chezou.github.io/mizuyarilink_octopress/4/</link>
+      <pubDate>Sat, 11 Apr 2015 16:38:24 +0900</pubDate>
+      <guid>http://chezou.github.io/mizuyarilink_octopress/4</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>3/28に開催された「証人」のレジスタンス打ち上げでのインタビューです</itunes:subtitle>
+      <itunes:duration>33:41</itunes:duration>
+      <enclosure url="http://mizuyari.link/audio/mizuyari-04.mp3" type="audio/mpeg" length="16168832"/>
+    </item>
+    
+    <item>
+      <title>3: ミッション職人に聞く、ロケテの重要性</title>
+      <description>469ma さんをゲストにミッションを作る心構えやArtifact、Sojournerメダルについて話しました&lt;h2&gt;Show Notes&lt;/h2&gt;
+
+&lt;h3&gt;気になるニュース&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;からあげ転がし(#DevraShards)
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://ingressjp.blogspot.jp/2015/03/shonin-stone-devrashards-2.html&quot;&gt;【MMMMORPG】Ingress攻略(Wiki風味)【大規模社会実験】: shonin Stone 改め #DevraShards﻿ 日本国内に2個発生&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://ingressblog.jp/24033957/&quot;&gt;【アーティファクト開始】ファミマサンクス統合交渉する中、ローソンは玉転がしの舞台に | Ingress(イングレス)速報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://ingressblog.jp/24494876/&quot;&gt;【アーティファクト】日本を通った玉の行方一覧【随時更新中】 | Ingress(イングレス)速報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://ingressblog.jp/24029810/&quot;&gt;【新メダル】毎日ハックで手に入る鬼メダル「Sojourner(ソジャーナ)」間もなく【もう許して】 | Ingress(イングレス)速報&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://ingressjp.blogspot.jp/2015/03/glyphhackap.html&quot;&gt;【MMMMORPG】Ingress攻略(Wiki風味)【大規模社会実験】: GlyphHACKでAP取得ｷﾀｷﾀｷﾀｷﾀ━━━(ﾟ∀ﾟ≡(ﾟ∀ﾟ≡ﾟ∀ﾟ)≡ﾟ∀ﾟ)━━━━!!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://ingressblog.jp/24576341/&quot;&gt;Intel Mapからミッションを探したり見たりできるようになりました | Ingress(イングレス)速報&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;ゲストコーナー&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;469ma さんのミッション講座&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;お便りコーナー&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;「おもしろ/珍名エージェント」&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+      <link>http://chezou.github.io/mizuyarilink_octopress/3/</link>
+      <pubDate>Sun, 15 Mar 2015 23:37:31 +0900</pubDate>
+      <guid>http://chezou.github.io/mizuyarilink_octopress/3</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>469ma さんをゲストにミッションを作る心構えやArtifact、Sojournerメダルについて話しました</itunes:subtitle>
+      <itunes:duration>40:28</itunes:duration>
+      <enclosure url="http://mizuyari.link/audio/mizuyari-03.mp3" type="audio/mpeg" length="19420160"/>
+    </item>
+    
+    <item>
+      <title>2: Illuminatorメダル登場！大きなCFをつくろう</title>
+      <description>berserga さんと chezou でIlluminatorメダルや証人速報について話しました。&lt;h2&gt;Show Notes&lt;/h2&gt;
+
+&lt;h3&gt;気になるニュース&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://ingressjp.blogspot.jp/2015/02/illuminator-medal.html&quot;&gt;【MMMMORPG】Ingress攻略(Wiki風味)【大規模社会実験】: Illuminator Medal が実装されました&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://weekly.ascii.jp/elem/000/000/287/287495/&quot;&gt;Ingress：Glyf Hack（グリフ・ハック）の正解率が劇的にアップする覚えておきたい5つのグリフ - 週アスPLUS&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=jp.org.example.geckour.glyph&quot;&gt;Glyph(Android)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://itunes.apple.com/jp/app/glyph-mastery/id903701519?mt=8&quot;&gt;Glyph Mastery(iOS)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://game.watch.impress.co.jp/docs/news/20150224_689741.html&quot;&gt;立命館大学、IngressやVR、インディーゲームをテーマにしたセミナーを開催 - GAME Watch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://ingressjp.blogspot.jp/2015/02/mission.html&quot;&gt;【MMMMORPG】Ingress攻略(Wiki風味)【大規模社会実験】: 東京都東村山市でMissionプレイすると、リアル報酬が！&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://ingress.blog.jp/archives/23295313.html&quot;&gt;Ingress(イングレス)速報 : 証人(Shonin)に参加すると貰える実績メダルはこちら&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://plus.google.com/+Ingress/posts/3xT6WhuRbR4&quot;&gt;Summary of Shonin 01&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Enlightened: 2059&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Resistance: 2062&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://plus.google.com/+Ingress/posts/MVZbVTPYLKc&quot;&gt;Summary of Shonin 02&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Enlightened: 2926&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Resistance: 2230&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;お便りコーナー&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;「青キノコ vs 緑タケノコ」
+
+&lt;ul&gt;
+&lt;li&gt;ADA vs XMP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+      <link>http://chezou.github.io/mizuyarilink_octopress/2/</link>
+      <pubDate>Sun, 01 Mar 2015 00:31:15 +0900</pubDate>
+      <guid>http://chezou.github.io/mizuyarilink_octopress/2</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>berserga さんと chezou でIlluminatorメダルや証人速報について話しました。</itunes:subtitle>
+      <itunes:duration>34:51</itunes:duration>
+      <enclosure url="http://mizuyari.link/audio/mizuyari-02.mp3" type="audio/mpeg" length="16728896"/>
+    </item>
+    
+    <item>
+      <title>1: Ingress の Podcast はじめました</title>
+      <description>berserga さんと Ingress ニュースを紹介するPodcastをはじめました。防犯パトロールを始めたエージェントの話などを紹介しました。&lt;h2&gt;Show Notes&lt;/h2&gt;
+
+&lt;h3&gt;自己紹介&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;berserga
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://ingress.blog.jp/archives/13616218.html&quot;&gt;Ingress(イングレス)速報 : 川崎に40枚重なったミルフィーユCFが形成される&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;chezou
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://chezou.hatenablog.com/entry/2014/12/15/152000&quot;&gt;#ingress でフルタイムのプロエージェントと出会った話 - once upon a time,&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://plus.google.com/+MichiakiAriga/posts/RjtL2BDDZqq&quot;&gt;Word cloud of Japanese ingress portal name&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://chezou.hatenablog.com/entry/2015/01/16/011049&quot;&gt;非エンジニアのコミュニティにSlackを導入した話 #ingress - once upon a time,&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;気になるニュース&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://ingress.blog.jp/archives/22441348.html&quot;&gt;Ingress(イングレス)速報 : Ingress、一部日本語化&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://ingress.blog.jp/archives/21886888.html&quot;&gt;Ingress(イングレス)速報 : 【天才か】深夜帯に活動するエージェントが発想を逆転させ地域の防犯ボランティアに登録&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://ingress.blog.jp/archives/22415161.html&quot;&gt;Ingress(イングレス)速報 : 【世界初？】5000本のポータルを生み出した伝説の功労者、日本に爆誕&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://ingressjp.blogspot.jp/2015/02/portal-lock-down-glyph-hack-required.html&quot;&gt;【MMMMORPG】Ingress攻略(Wiki風味)【大規模社会実験】: Portal lock down glyph hack required のペナルティについて&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;教えて！bersergaさん&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Translator メダルをとりたい！グリフハックのコツを教えて
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://myglyph.akiraak.com/&quot;&gt;あだなグリフ（仮）&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+      <link>http://chezou.github.io/mizuyarilink_octopress/1/</link>
+      <pubDate>Sat, 14 Feb 2015 21:08:49 +0900</pubDate>
+      <guid>http://chezou.github.io/mizuyarilink_octopress/1</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>berserga さんと Ingress ニュースを紹介するPodcastをはじめました。防犯パトロールを始めたエージェントの話などを紹介しました。</itunes:subtitle>
+      <itunes:duration>33:50</itunes:duration>
+      <enclosure url="http://mizuyari.link/audio/mizuyari-01.mp3" type="audio/mpeg" length="16240832"/>
+    </item>
+    
+  </channel>
+</rss>
